@@ -14,6 +14,10 @@ HumanlyTogether est un événement qui célèbre la diversité et la solidarité
 - `assets/` - Dossier contenant les ressources (images, JavaScript)
 - `images/` - Dossier contenant les images utilisées sur le site
 
+## Note sur les images
+
+Pour des raisons de taille et de droits d'auteur, certaines images ne sont pas incluses dans ce dépôt GitHub. Les images sont stockées sur le serveur FTP du site web.
+
 ## Contact
 
 Pour plus d'informations sur l'événement HumanlyTogether ou l'ASBL Ni Wakati, veuillez consulter le site web [humanlytogether.org](https://humanlytogether.org).
